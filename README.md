@@ -12,15 +12,35 @@ Kruskal's algorithm is utilized to identify a minimum spanning tree within a wei
 
 ## Features of this Project 
 - User Manual to help the users understnad how to opearte the WebApp: 
+
 ![image](https://github.com/ramisa7/AlgoVisualization/assets/92804590/bb660751-9d1b-42b6-b897-216ea4e6e4ad)
+
 - Two different spaces for Prim's and Kruskal's that allows user to run different algorithms at the same time: 
+
 ![image](https://github.com/ramisa7/AlgoVisualization/assets/92804590/7805654c-36e9-4a08-8bab-8c25f36bfc0f)
+
 - Lets the user add vertices in the separate boxes: 
+
 ![image](https://github.com/ramisa7/AlgoVisualization/assets/92804590/31e9d524-e27a-463c-a021-117bd28e2719)
+
 - Lets the user add vertices between two vertices with an edgeweight of user's choice: 
+
 ![image](https://github.com/ramisa7/AlgoVisualization/assets/92804590/30a71dd8-eeb6-496d-a2b2-9891e801fd4f)
+
 - Visualizing the vertices & the edges for better understanding of user: 
+
 ![image](https://github.com/ramisa7/AlgoVisualization/assets/92804590/ad8476a6-3cc9-4a2d-8e1f-78c27e1ece15)
+
+- Buttons to use built in graphs if the user wants & to clear the screen: 
+
+![image](https://github.com/ramisa7/AlgoVisualization/assets/92804590/fcb27d5d-35c4-47c1-b6f2-310229003bdd)
+
+- Highlight edges to show the edges that build the Minimum Spanning Tree: 
+
+![image](https://github.com/ramisa7/AlgoVisualization/assets/92804590/c68ebc94-14a4-4fe7-8883-06bc82e68c18)
+
+- Displaying the total cost using each algorithm: 
+
 
 ## Tech Stacks used to build this Project 
 
