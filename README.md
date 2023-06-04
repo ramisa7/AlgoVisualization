@@ -9,7 +9,7 @@ Some of the challenges you faced and features you hope to implement in the futur
 
 ## How to Install and Run the Project 
 
-##How to use the project
+## How to use the project
 
 ## Features of this Project 
 
