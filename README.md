@@ -12,7 +12,8 @@ Kruskal's algorithm is utilized to identify a minimum spanning tree within a wei
 
 ## Features of this Project 
 - User Manual to help the users understnad how to opearte the WebApp: 
-[image](https://github.com/ramisa7/AlgoVisualization/assets/92804590/a68c68ef-69d8-4555-92e5-3ceff708d570)
+![image](https://github.com/ramisa7/AlgoVisualization/assets/92804590/bb660751-9d1b-42b6-b897-216ea4e6e4ad)
+
 
 
 ## Tech Stacks used to build this Project 
