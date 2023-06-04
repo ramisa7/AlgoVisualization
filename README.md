@@ -41,6 +41,9 @@ Kruskal's algorithm is utilized to identify a minimum spanning tree within a wei
 
 - Displaying the total cost using each algorithm: 
 
+![image](https://github.com/ramisa7/AlgoVisualization/assets/92804590/3859566b-7cc0-41a2-a8d9-2bcdc4c75221)
+
+- Prevents the user from adding any other nodes/vertices or edges while either of the algorithm is running. 
 
 ## Tech Stacks used to build this Project 
 
