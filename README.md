@@ -1,16 +1,23 @@
 # AlgoVisualization: MST Algorithm Visualizer WebApp
 
 This is a webapp build using JavaScript that visualizes 2 algorithms to get a Minimum Spanning Tree for the users: Prim's algorithm & Kruskal's algorithm. 
-For Prims's algorithm , this webapp is built using a custom Priority Queue to maintain the visited nodes. 
-For Kruskal's algorithm, we are using Breadth First Search to detect cycles in the newly built minimum spanning tree. 
-What your application does,
-Why you used the technologies you used,
-Some of the challenges you faced and features you hope to implement in the future.
+Prims's algorithm is designed to identify a minimum spanning tree in a weighted undirected graph. It accomplishes this by selecting a set of edges that form a tree encompassing all vertices, while minimizing the total weight of the included edges. The algorithm constructs the tree gradually, beginning with a user-selected starting vertex, and at each stage, it appends the most cost-effective link between the existing tree and a new vertex. 
+Kruskal's algorithm is utilized to identify a minimum spanning tree within a weighted undirected graph as well. Its objective is to discover a subset of edges that construct a tree incorporating all vertices while minimizing the cumulative weight of the tree's edges. The algorithm begins by sorting the edges based on their weights and then incrementally adds them to the expanding forest. It ensures that no edges are added that would introduce a cycle into the tree. 
 
-## How to Install and Run the Project 
 
 ## How to use the project
+1. Clone this project using 
+2. Open the Interactive.html file to run the project 
+
 
 ## Features of this Project 
 
+
 ## Tech Stacks used to build this Project 
+
+This WebApp has been built using HTML, CSS & JavaScript. 
+To implement the algorithms, the following data structures has been used: 
+- Adjacency List to keep note of the neighbors of the vertices.
+- Priority Queue using minheap to always find the cheapest vertix from any vertix.
+- Set to keep track of visited vertices.
+- Breadth First Search(BFS) to detect a cycle in Kruskal's Algorithm while building the MST. 
