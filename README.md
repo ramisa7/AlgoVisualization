@@ -6,11 +6,13 @@ Kruskal's algorithm is utilized to identify a minimum spanning tree within a wei
 
 
 ## How to use the project
-1. Clone this project using 
+1. Clone this project using https://github.com/ramisa7/AlgoVisualization.git
 2. Open the Interactive.html file to run the project 
 
 
 ## Features of this Project 
+- User Manual to help the users understnad how to opearte the WebApp: 
+[image](https://github.com/ramisa7/AlgoVisualization/assets/92804590/a68c68ef-69d8-4555-92e5-3ceff708d570)
 
 
 ## Tech Stacks used to build this Project 
